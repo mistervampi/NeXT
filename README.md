@@ -24,7 +24,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * **CALMA Y PACIENCIA**
 
 ## COMPATIBILIDAD
-* Versiones de Sistema desde 1.0.0 hasta 9.0.0
+* Versiones de Sistema desde 1.0.0 hasta 9.1.0
 
 ## COMO USAR
 1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases
