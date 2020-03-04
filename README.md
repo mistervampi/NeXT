@@ -5,8 +5,7 @@
 El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basado en Hekate y Atmosphere con "ingredientes" extra. Y todo esto EN TU IDIOMA!!
 <br>
 <br>
-<a href="https://discorg.gg/"><img src="https://discordapp.com/api/guilds/592180014783660043/embed.png?style=banner2" alt="Unete a nuestrp Discord"></a>
-<a href="https://www.patreon.com/vampitech"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="75" width="320"></a>
+<a href="https://discorg.io/vampitech"><img src="https://discordapp.com/api/guilds/592180014783660043/embed.png?style=banner2" alt="Unete a nuestrp Discord"></a>
 </p>
 
 ## QUE INCLUYE?
