@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Vampitech/NeXT/releases">
-<image src="https://user-images.githubusercontent.com/47399571/65657731-513ffc80-dfea-11e9-8ef6-9b07d850cdae.png"></a>
+<image src="https://user-images.githubusercontent.com/47399571/75834865-3e94d500-5d8b-11ea-8fdb-daaa8f48073b.jpg"></a>
 <br>
 El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basado en Hekate y Atmosphere con "ingredientes" extra. Y todo esto EN TU IDIOMA!!
 <br>
