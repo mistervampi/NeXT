@@ -2,10 +2,10 @@
 <a href="https://github.com/Vampitech/NeXT/releases">
 <image src="https://user-images.githubusercontent.com/47399571/75834865-3e94d500-5d8b-11ea-8fdb-daaa8f48073b.jpg"></a>
 <br>
-El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basado en Hekate y Atmosphere con "ingredientes" extra. Y todo esto EN TU IDIOMA!!
+El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basado en ArgonNX, Hekate y Atmosphere con "ingredientes" extra. Y todo esto EN TU IDIOMA!!
 <br>
 <br>
-<a href="https://discord.io/vampitech"><img src="https://discordapp.com/api/guilds/592180014783660043/embed.png?style=banner2" alt="Unete a nuestrp Discord"></a>
+<a href="https://discord.vampitech.com.co"> Únete a nuestro Discord</a>
 </p>
 
 ## QUE INCLUYE?
@@ -28,14 +28,15 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 ## COMO USAR
 1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases
 2. Extraer el contenido
-3. Copiar a la raiz de la memoria microSD el contenido se la carpeta SD
+3. Copiar a la raiz de la memoria microSD el contenido de la carpeta SD
 5. Poner la Nintendo Switch en modo RCM (Combo JIG + Botones POWER y VOL+)
-4. Inyectar por medio de PC (TegraRCMGUI), Movil (Rekado) o Dongle el archivo hekate_ctcaer_5.0.2.bin
+4. Inyectar por medio de PC (TegraRCMGUI), Movil (Rekado) o Dongle el archivo PC/PAYLOADS/next.bin
 5. Tocar botón LAUNCH
-6. Dependiendo de su configuración, elija la opción Atmosphere ya sea en SYSNAND o EMUNAND (Ver canal Vampitech en Youtube para mayor referencia). Si elige SX OS asegurese de contar con una licencia. Si elige Stock iniciará el Sistema normal sin ninguna modificación.
+6. Elija el CFW de su preferencia (Ver canal Vampitech en Youtube para mayor referencia). Si elige SX OS asegurese de contar con una licencia. Si elige OFW iniciará el Sistema normal sin ninguna modificación.
 <img src="https://user-images.githubusercontent.com/47399571/65682482-aac31e00-e020-11e9-8cfc-750413379f58.png">
 
 ## FUENTES DE PROYECTOS INCLUIDOS EN NeXT
+* [ArgonNX](https://github.com/Guillem96/argon-nx)
 * [Hekate](https://github.com/CTCaer/hekate)
 * [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
 * [Switch Homebrew Loader](https://github.com/switchbrew/nx-hbloader)
@@ -43,12 +44,12 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * [Sys-FTPD](https://github.com/jakibaki/sys-ftpd)
 * [EdiZon](https://github.com/thomasnet-mc/EdiZon)
 * [Goldleaf](https://github.com/XorTroll/Goldleaf)
+* [Awoo Installer](https://github.com/Huntereb/Awoo-Installer)
 * [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
 * [emuiibo](https://github.com/XorTroll/emuiibo)
 * [ChoidujourNX](https://switchtools.sshnuke.net/)
-* [Incógnito](https://github.com/blawar/incognito) - Mod by [Kronos2308](https://github.com/StarDustCFW/incognito)
-* [NAND Cleaner Haku33 by Kronos2308](https://github.com/StarDustCFW/Haku33)
+* [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM)
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM)
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
-* [Lithium / Tinfoil](https://tinfoil.io)
 
