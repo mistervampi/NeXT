@@ -33,7 +33,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 4. Inyectar por medio de PC (TegraRCMGUI), Movil (Rekado) o Dongle el archivo PC/PAYLOADS/next.bin
 5. Tocar botón LAUNCH
 6. Elija el CFW de su preferencia (Ver canal Vampitech en Youtube para mayor referencia). Si elige SX OS asegurese de contar con una licencia. Si elige OFW iniciará el Sistema normal sin ninguna modificación.
-<img src="https://user-images.githubusercontent.com/47399571/65682482-aac31e00-e020-11e9-8cfc-750413379f58.png">
+<img src="https://user-images.githubusercontent.com/47399571/79309621-35d20b80-7ec0-11ea-94e6-9f84260a154a.jpg">
 
 ## FUENTES DE PROYECTOS INCLUIDOS EN NeXT
 * BootMenu by [ArgonNX](https://github.com/Guillem96/argon-nx)
