@@ -23,7 +23,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * **CALMA Y PACIENCIA**
 
 ## COMPATIBILIDAD
-* Versiones de Sistema desde 1.0.0 hasta 9.2.0
+* Versiones de Sistema desde 1.0.0 hasta 10.0.0
 
 ## COMO USAR
 1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases
@@ -36,7 +36,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 <img src="https://user-images.githubusercontent.com/47399571/65682482-aac31e00-e020-11e9-8cfc-750413379f58.png">
 
 ## FUENTES DE PROYECTOS INCLUIDOS EN NeXT
-* [ArgonNX](https://github.com/Guillem96/argon-nx)
+* BootMenu by [ArgonNX](https://github.com/Guillem96/argon-nx)
 * [Hekate](https://github.com/CTCaer/hekate)
 * [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
 * [Switch Homebrew Loader](https://github.com/switchbrew/nx-hbloader)
