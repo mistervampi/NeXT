@@ -13,7 +13,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * Atmosphere (Compilación Original)
 * Utilidades Homebrew para usuarios finales.
 * Servidor FTP Integrado
-* Herramienta de actualización de NeXT (Próximamente)
+* Herramienta de actualización de NeXT
 * **todo para que tu switch dé el siguiente paso**
 
 ## REQUISITOS PARA USAR
@@ -23,15 +23,14 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * **CALMA Y PACIENCIA**
 
 ## COMPATIBILIDAD
-* Versiones de Sistema desde 1.0.0 hasta 10.0.0
+* Versiones de Sistema desde 1.0.0 hasta 10.0.2
 
 ## COMO USAR
-1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases
+1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases/latest
 2. Extraer el contenido
 3. Copiar a la raiz de la memoria microSD el contenido de la carpeta SD
 5. Poner la Nintendo Switch en modo RCM (Combo JIG + Botones POWER y VOL+)
 4. Inyectar por medio de PC (TegraRCMGUI), Movil (Rekado) o Dongle el archivo PC/PAYLOADS/next.bin
-5. Tocar botón LAUNCH
 6. Elija el CFW de su preferencia (Ver canal Vampitech en Youtube para mayor referencia). Si elige SX OS asegurese de contar con una licencia. Si elige OFW iniciará el Sistema normal sin ninguna modificación.
 <img src="https://user-images.githubusercontent.com/47399571/79309621-35d20b80-7ec0-11ea-94e6-9f84260a154a.jpg">
 
