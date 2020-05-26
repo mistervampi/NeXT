@@ -32,7 +32,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 5. Poner la Nintendo Switch en modo RCM (Combo JIG + Botones POWER y VOL+)
 4. Inyectar por medio de PC (TegraRCMGUI), Movil (Rekado) o Dongle el archivo PC/PAYLOADS/next.bin
 6. Elija el CFW de su preferencia (Ver canal Vampitech en Youtube para mayor referencia). Si elige SX OS asegurese de contar con una licencia. Si elige OFW iniciará el Sistema normal sin ninguna modificación.
-<img src="https://user-images.githubusercontent.com/47399571/79309621-35d20b80-7ec0-11ea-94e6-9f84260a154a.jpg">
+<img src="https://user-images.githubusercontent.com/47399571/82906333-b574e080-9f2a-11ea-92cf-e3ec08f67f58.jpg">
 
 ## FUENTES DE PROYECTOS INCLUIDOS EN NeXT
 * BootMenu by [ArgonNX](https://github.com/Guillem96/argon-nx)
