@@ -40,17 +40,17 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
 * [Switch Homebrew Loader](https://github.com/switchbrew/nx-hbloader)
 * [Switch Homebrew Menu](https://github.com/switchbrew/nx-hbmenu)
-* [Sys-FTPD](https://github.com/jakibaki/sys-ftpd)
+* [Sys-FTPD](https://github.com/jakibaki/sys-ftpd) 
 * [EdiZon](https://github.com/thomasnet-mc/EdiZon)
 * [Goldleaf](https://github.com/XorTroll/Goldleaf)
 * [Awoo Installer](https://github.com/Huntereb/Awoo-Installer)
 * [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
 * [emuiibo](https://github.com/XorTroll/emuiibo)
 * [ChoidujourNX](https://switchtools.sshnuke.net/)
-* [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM)
-* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM)
+* [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM) <- Incognito_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM) <- Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
 * [Sys-DVR] (https://github.com/exelix11/SysDVR/)
-* [TegraExplorer] (https://github.com/suchmememanyskill/TegraExplorer/)
+* [TegraExplorer] (https://github.com/suchmememanyskill/TegraExplorer/) <- TegraExplorer ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 
