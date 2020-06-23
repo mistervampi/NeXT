@@ -23,7 +23,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * **CALMA Y PACIENCIA**
 
 ## COMPATIBILIDAD
-* Versiones de Sistema desde 1.0.0 hasta 10.0.3
+* Versiones de Sistema desde 1.0.0 hasta 10.0.4
 
 ## COMO USAR
 1. Descargar la release mas reciente desde la http://github.com/Vampitech/NeXT/releases/latest
@@ -51,4 +51,6 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM)
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
+* [Sys-DVR] (https://github.com/exelix11/SysDVR/)
+* [TegraExplorer] (https://github.com/suchmememanyskill/TegraExplorer/)
 
