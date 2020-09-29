@@ -53,7 +53,7 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 - Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
-* [Sys-DVR] (https://github.com/exelix11/SysDVR/)
-* [TegraExplorer] (https://github.com/suchmememanyskill/TegraExplorer/) 
+* [Sys-DVR](https://github.com/exelix11/SysDVR/)
+* [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/) 
 - TegraExplorer ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 
