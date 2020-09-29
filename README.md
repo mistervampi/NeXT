@@ -49,7 +49,8 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * [ChoidujourNX](https://switchtools.sshnuke.net/)
 * [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM)
 - Incognito_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
-* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM) <- Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM)
+- Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
 * [Sys-DVR] (https://github.com/exelix11/SysDVR/)
