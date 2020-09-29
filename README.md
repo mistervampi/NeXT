@@ -47,13 +47,12 @@ El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basa
 * [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
 * [emuiibo](https://github.com/XorTroll/emuiibo)
 * [ChoidujourNX](https://switchtools.sshnuke.net/)
-* [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM)
-- Incognito_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
-* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM)
-- Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [Incógnito RCM](https://github.com/jimzrt/Incognito_RCM) - Incognito_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM) - Lockpick_RCM ha sido modificado con el fin de agregar la opción de volver al Bootmenu
 * [NXMTP](https://github.com/liuervehc/nxmtp/)
 * [NX-Shell](https://github.com/joel16/NX-Shell)
 * [Sys-DVR](https://github.com/exelix11/SysDVR/)
-* [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/) 
-- TegraExplorer ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/) - TegraExplorer ha sido modificado con el fin de agregar la opción de volver al Bootmenu
+* [Linkhalo](https://github.com/rdmrocha/linkalho)
+* [Nightfall](https://github.com/D3fau4/NightFall)
 
