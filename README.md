@@ -4,8 +4,8 @@
 <br>
 El pack todo en uno que hará que tu Nintendo Switch dé el siguiente paso. Basado en ArgonNX, Hekate y Atmosphere con "ingredientes" extra. Y todo esto EN TU IDIOMA!!
 <br>
+<h1>Soon, NeXT will be available IN ENGLISH, so stay tuned!<h1>
 <br>
-<a href="https://discord.vampitech.com.co"> Únete a nuestro Discord</a>
 </p>
 
 ## QUE INCLUYE?
