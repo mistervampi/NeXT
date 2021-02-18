@@ -45,7 +45,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 10. IMPORTANT STEP--->  !!!!MAKE A BACKUP AND CREATE AN EMUNAND!!! <--- IMPORTANT STEP
 11. Tap in Launch and then "Back to NeXT"
 12. Tap on Incognito
-13. With the Volume Keys go to "Incognito (EmuMMC)" and press POWER. Wait for the process to finish and then press POWER
+13. With the Volume Keys go to "Incognito (EmuMMC)" and press POWER. Wait for the process to finish, verify that your Emunand serial was marked as XAW00000000000001 and then press POWER
 14. With the Volume Keys go to "Reboot to NeXT"
 15. Now you can tap on Atmosphere to start Custom Firmware or Stock to back to Original Firmware.
 16. Your can now connect to the internet in both systems.
