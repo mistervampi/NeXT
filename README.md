@@ -12,7 +12,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 <br>
 
 ## SUPPORT
-* For support please follow me on [Twitter](https//twitter.com/misterampi) (It's on Spanish but you can contact me in English) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
+* For support please follow me on [Twitter](https://twitter.com/misterampi) (It's on Spanish but you can contact me in English) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
   
 ## WHAT'S INCLUDED?
 * Main Bootmenu with adjustable settings
@@ -58,7 +58,7 @@ The Boot Menu will activate it's respective launcher button for those payloads t
 <h4 align="center">ESPAÑOL:<h4>
   
 ## SOPORTE
-* Para soporte puedes seguir en [Twitter](https//twitter.com/misterampi) o volverte un [Patreon](https://patreon.com/mistervampi) desde $1 dólar y obtener acceso prioritario al  Discord  
+* Para soporte puedes seguir en [Twitter](https://twitter.com/misterampi) o volverte un [Patreon](https://patreon.com/mistervampi) desde $1 dólar y obtener acceso prioritario al  Discord  
 
 ## QUE INCLUYE?
 * Menu de inicio con ajustes configurables
