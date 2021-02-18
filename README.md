@@ -29,7 +29,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 * Firmwares from 10.0.x to 11.0.x
 
 ## HOW TO USE
-1. Delete any internet conecctions saved on the Original Firmware (You can find it on System Settings -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
+1. Delete any internet conecctions saved on the Original Firmware (You can find it on System Settings -> Internet -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
 2. Turn Off the console
 3. Download the most recent release http://github.com/Vampitech/NeXT/releases/latest
 4. Extract the content
@@ -49,6 +49,50 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 SX OS -> sd:/BOOT.DAT
 ANDROID -> sd:/switchroot/android/coreboot.rom
 LAKKA -> sd:/lakka/boot/coreboot.rom
+The Boot Menu will activate it's respective launcher button for those payloads that were detected.
+
+<h4 align="center">ESPAÑOL:<h4>
+  
+## QUE INCLUYE?
+* Menu de inicio con ajustes configurables
+* Hekate (CTCaer)
+* Atmosphere (Sin modificaciones)
+* Selectos Homebrews para usuarios finales
+* Los mejores Sys-Modules (Tesla Ovl, Mission Control, Sys-con,Sys-FTP, others)
+* Next Updater para mantener al dia el AIO sin necesidad de extraer la SD.
+
+## REQUISITOS DE USO
+* Consola Nintendo Switch ERISTA NO PARCHEADA
+* PC con Windows 7/8/10
+* Cable USB-C
+* [Jig o clip para hacer puente con los pines 0-1 del Rail del Joycon Derecho](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
+* **CALMA Y PATICIENCIA**
+
+## COMPATIBILIDAD
+* Firmwares desde 10.0.x a 11.0.x
+
+## CÓMO USAR
+1. Borrar cualquier conexion a internet guardada en la consola (Puede encontrarlas en Configuración de la consola -> Internet -> Configuración de internet -> Redes registradas) Luego activar modo avión.
+2. Apagar la consola
+3. Descargar la release mas reciente http://github.com/Vampitech/NeXT/releases/latest
+4. Extraer contenido
+5. Copiar el contenido de la carpeta SD a la raiz de la memoria SD.
+6. [Insertar el jig/clip en el Rail del Joycon Derecho](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
+7. Poner su Switch en modo RCM presionando los botones VOL+ y POWER a la vez.
+8. Con TegraRCMGUI en PC, Rekado en Móviles Android o cualquier Dongle, Inyecte el payload hekate_ctcaer_x.x.x.bin localizado dentro de la ruta PC/PAYLOADS/
+9. Toque en Hekate
+10. IMPORTANTE--->  !!!!REALIZAR BACLUP Y CREAR EMUNAND!!! <--- IMPORTANTE
+11. Toque en Launch y luego en "Volver a NeXT"
+12. Toque en Incognito
+13. Con las teclas de Volumen vaya a "Incognito (EMUMMC)" y presione POWER. Verifique que su serial sea XAW000000000001 y luego presione POWER.
+14. Con las teclas de Volumen vaya a "Reboot to NeXT"
+15. Ahora puede tocar en Atmosphere para Inicial Custom Firmware o en Stock para iniciar con Firmware original
+16. Puede desactivar el modo avión y conectar su consola a internet nuevamente en cualquiera de los dos sistemas si así lo desea.
+17. Para SX OS, Android, Lakka por favor copie los respectivos payloads en las siguientes ubicaciones :
+SX OS -> sd:/BOOT.DAT
+ANDROID -> sd:/switchroot/android/coreboot.rom
+LAKKA -> sd:/lakka/boot/coreboot.rom
+El Bootmenú detectará los payloads existentes y activará el botón lanzador corresponiente.
 
 
 ## SOURCE REPOS OF THE APPS INCLUDED ON NeXT AIO
