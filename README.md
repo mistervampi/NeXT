@@ -21,7 +21,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 * An Erista NON-PATCHED Nintendo Switch Console
 * PC with Windows 7/8/10
 * USB-C Cable 
-* [Jig or clip to Short 0-1 Pins of Right Joycons Rail](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
+* [Jig or clip to Short 0-1 Pins of Right Joycon Rail](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
 * **CALM AND PATIENCE**
 
 ## COMPATIBILITY
