@@ -124,5 +124,5 @@ El Bootmenú detectará los payloads existentes y activará el botón lanzador c
 * [Nightfall](https://github.com/D3fau4/NightFall)
 * [Mission Control](https://github.com/ndeadly/MissionControl)
 * [Switch Aio Updater](https://github.com/HamletDuFromage/aio-switch-updater)
-* If you think your project doesn't have to be in this AIO, feel free to contact me for requests their removal.
+* If you think your project doesn't have to be in this AIO, feel free to contact me for request its removal.
 
