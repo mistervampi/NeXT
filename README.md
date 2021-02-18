@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://github.com/Vampitech/NeXT/releases">
 <image src="https://user-images.githubusercontent.com/43819059/108298211-92e6bf80-716a-11eb-8f0c-1bdd2f578300.jpg"></a>
+<image src="https://user-images.githubusercontent.com/43819059/108298214-937f5600-716a-11eb-8f79-5ddf897b625f.jpg"></a>
 <br>
 The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonNX, Hekate y Atmosphere con extra "ingredients".
 <br>
