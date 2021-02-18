@@ -10,7 +10,9 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 
 <h4 align="center">ENGLISH:<h4>
 <br>
-* For support please follow me on [Twitter](https//twitter.com/misterampi) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
+
+## SUPPORT
+* For support please follow me on [Twitter](https//twitter.com/misterampi) (It's on Spanish but you can contact me in English) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
   
 ## WHAT'S INCLUDED?
 * Main Bootmenu with adjustable settings
@@ -54,7 +56,10 @@ LAKKA -> sd:/lakka/boot/coreboot.rom
 The Boot Menu will activate it's respective launcher button for those payloads that were detected.
 
 <h4 align="center">ESPAÑOL:<h4>
-<h4 align="center">Para soporte, sígueme en [Twitter](https//twitter.com/misterampi) or Conviertete en [Patreon](https://patreon.com/mistervampi)desde $1 Dólar y obtén acceso prioritario a mi Discord<h4>
+  
+## SOPORTE
+* Para soporte puedes seguir en [Twitter](https//twitter.com/misterampi) o volverte un [Patreon](https://patreon.com/mistervampi) desde $1 dólar y obtener acceso prioritario al  Discord  
+
 ## QUE INCLUYE?
 * Menu de inicio con ajustes configurables
 * Hekate (CTCaer)
