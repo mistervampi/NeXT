@@ -12,7 +12,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 <br>
 
 ## SUPPORT
-* For support please follow me on [Twitter](https://twitter.com/mistervampi) (It's on Spanish but you can contact me in English) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
+* For support please follow me on [Twitter](https://twitter.com/mistervampi) (It's in Spanish but you can write me in English. I'll reply in any moment) or Become a [Patreon](https://patreon.com/mistervampi) from $1 and get priority access to my Discord
   
 ## WHAT'S INCLUDED?
 * Main Bootmenu with adjustable settings
