@@ -31,7 +31,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 ## HOW TO USE
 1. Delete any internet conecctions saved on the Original Firmware (You can find it on System Settings -> Internet -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
 2. Turn Off the console
-3. Download the most recent release http://github.com/Vampitech/NeXT/releases/latest
+3. Download the most recent release http://github.com/Mistervampi/NeXT/releases/latest
 4. Extract the content
 5. Copy the content of SD Folder to the root of your SD card
 6. [Insert jig/clip into the Right Joycon Rail](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
@@ -74,7 +74,7 @@ The Boot Menu will activate it's respective launcher button for those payloads t
 ## CÓMO USAR
 1. Borrar cualquier conexion a internet guardada en la consola (Puede encontrarlas en Configuración de la consola -> Internet -> Configuración de internet -> Redes registradas) Luego activar modo avión.
 2. Apagar la consola
-3. Descargar la release mas reciente http://github.com/Vampitech/NeXT/releases/latest
+3. Descargar la release mas reciente http://github.com/Mistervampi/NeXT/releases/latest
 4. Extraer contenido
 5. Copiar el contenido de la carpeta SD a la raiz de la memoria SD.
 6. [Insertar el jig/clip en el Rail del Joycon Derecho](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
