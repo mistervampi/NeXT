@@ -33,7 +33,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 * Firmwares from 10.0.x to 11.0.x
 
 ## HOW TO USE
-1. Delete any internet conecctions saved on the Original Firmware (You can find it on System Settings -> Internet -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
+1. Delete any internet conections saved on the Original Firmware (You can find it on System Settings -> Internet -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
 2. Turn Off the console
 3. Download the most recent release http://github.com/Mistervampi/NeXT/releases/latest
 4. Extract the content
