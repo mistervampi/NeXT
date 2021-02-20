@@ -120,7 +120,7 @@ El Bootmenú detectará los payloads existentes y activará el botón lanzador c
 * [NX-Shell](https://github.com/joel16/NX-Shell)
 * [Sys-DVR](https://github.com/exelix11/SysDVR/)
 * [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/) - TegraExplorer has been modified to add "Reboot to NeXT" Option
-* [Linkahlo](https://github.com/rdmrocha/linkalho)
+* [Linkalho](https://github.com/rdmrocha/linkalho)
 * [Nightfall](https://github.com/D3fau4/NightFall)
 * [Mission Control](https://github.com/ndeadly/MissionControl)
 * [Switch Aio Updater](https://github.com/HamletDuFromage/aio-switch-updater)
