@@ -31,7 +31,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 * **CALM AND PATIENCE**
 
 ## COMPATIBILITY
-* Firmwares from 10.0.x to 11.0.x
+* Firmwares from 10.0.x to 12.0.x
 
 ## HOW TO USE
 1. Delete any internet conections saved on the Original Firmware (You can find it on System Settings -> Internet -> Internet Settings -> Registered Networks) then Activate Airplane Mode 
