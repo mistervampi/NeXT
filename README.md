@@ -119,7 +119,7 @@ Pour obtenir de l'aide, vous pouvez suivre sur [Twitter](https://twitter.com/mis
 
 ## REQUIS POUR POUVOIR L'UTILISER
 * Une console Nintendo Switch Erista NON PATCHÉE
-<b>(Fonctionne sur les commutateurs Mariko mais vous devez mettre SX GEAR boot.dat à la racine de votre carte SD. Les instructions seront bientôt publiées)<b>
+<b>(NeXT n'est pas encore compatible avec les consoles Mariko. Je travaille dur pour fournir un soutien dès que possible.)<b>
 * PC avec Windows 7/8/10
 * Câble USB-C
 * [JIG ou clip aux broches 0-1 courtes du rail droit du Joycon](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
