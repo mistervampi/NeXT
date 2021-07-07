@@ -78,7 +78,7 @@ The Boot Menu will activate it's respective launcher button for those payloads t
 * **CALMA Y PATICIENCIA**
 
 ## COMPATIBILIDAD
-* Firmwares desde 10.0.x a 11.0.x
+* Firmwares desde 10.0.x a 12.0.x
 
 ## CÓMO USAR
 1. Borrar cualquier conexion a internet guardada en la consola (Puede encontrarlas en Configuración de la consola -> Internet -> Configuración de internet -> Redes registradas) Luego activar modo avión.
@@ -104,6 +104,54 @@ LAKKA -> sd:/lakka/boot/coreboot.rom
 El Bootmenú detectará los payloads existentes y activará el botón lanzador corresponiente.
 
 
+<h4 align="center">FRANÇAIS:<h4>
+
+## SUPPORT
+Pour obtenir de l'aide, vous pouvez suivre sur [Twitter](https://twitter.com/mistervampi) ou devenir un [Patreon](https://patreon.com/mistervampi) à partir de 1 dollar et obtenir un accès prioritaire à Discord
+
+## QUE CELA INCLUS?
+* Menu Démarrer avec des paramètres configurables
+* Hekate (CTCaer)
+* Atmosphère (aucune modification)
+* Sélectionnez Homebrews pour les utilisateurs finaux
+* Les meilleurs Sys-Modules (Tesla Ovl, Mission Control, Sys-con, Sys-FTP, autres)
+* Next Updater pour maintenir l'AIO à jour sans retirer la carte SD. 
+
+## REQUIS POUR POUVOIR L'UTILISER
+* Une console Nintendo Switch Erista NON PATCHÉE
+<b>(Fonctionne sur les commutateurs Mariko mais vous devez mettre SX GEAR boot.dat à la racine de votre carte SD. Les instructions seront bientôt publiées)<b>
+* PC avec Windows 7/8/10
+* Câble USB-C
+* [JIG ou clip aux broches 0-1 courtes du rail droit du Joycon](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
+* **CALME ET PATIENCE** 
+
+## COMPATIBILITÉ 
+* Firmwares de 10.0.x à 12.0.x
+
+## COMMENT UTILISER
+
+1. Supprimez toute connexion Internet enregistrée dans la console (vous pouvez les trouver dans Paramètres de la console -> Internet -> Paramètres Internet -> Réseaux enregistrés) Puis activez le mode avion.
+2. Éteignez la console
+3. Téléchargez la dernière version http://github.com/Mistervampi/NeXT/releases/latest
+4. Extraire le contenu
+5. Copiez le contenu du dossier SD à la racine de la carte SD.
+6. [Insérez le jig / le clip dans le rail Joycon droit](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
+7. Mettez votre Switch en mode RCM en appuyant simultanément sur les boutons VOL(+) et POWER.
+8. Avec TegraRCMGUI sur PC, Rekado sur les téléphones Android ou n'importe quel Dongle, injectez le payload hekate_ctcaer_x.x.x.bin située dans le chemin PC/PAYLOADS/folder
+9. Appuyez sur Hekate
+10. IMPORTANT ---> !!!! FAITES UNE BACKUP ET CRÉEZ UNE EMUNAND !!! <--- IMPORTANT
+11. Tapez sur Launch puis sur "Back to Next"
+12. Appuyez sur Incognito
+13. Avec les touches de volume, allez sur "Incognito (EMUMMC)" et appuyez sur POWER. Vérifiez que votre numéro de série est XAW000000000001, puis appuyez sur POWER.
+14. Avec les touches de volume, allez à "Reboot to NeXT"
+15. Vous pouvez maintenant appuyer sur Atmosphère pour démarrer le Custom Firemware ou En stock pour revenir au Firemware d'Origine.
+16. Vous pouvez désactiver le mode avion et reconnecter votre console à Internet sur l'un ou l'autre des systèmes si vous le souhaitez.
+17. Pour SX OS, Android, Lakka, veuillez copier les charges utiles respectives aux emplacements suivants:
+SX OS -> sd: /BOOT.DAT
+ANDROID -> sd: /switchroot/android/coreboot.rom
+LAKKA -> sd: /lakka/boot/coreboot.rom
+Le menu de démarrage détectera les charges utiles existantes et activera le bouton de lancement correspondant.
+
 ## SOURCE REPOS OF THE APPS INCLUDED ON NeXT AIO
 * BootMenu by [ArgonNX](https://github.com/Guillem96/argon-nx)
 * [Hekate](https://github.com/CTCaer/hekate)
@@ -127,4 +175,3 @@ El Bootmenú detectará los payloads existentes y activará el botón lanzador c
 * [Mission Control](https://github.com/ndeadly/MissionControl)
 * [Switch Aio Updater](https://github.com/HamletDuFromage/aio-switch-updater)
 * If you think your project doesn't have to be in this AIO, feel free to contact me for request its removal.
-
