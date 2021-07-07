@@ -24,7 +24,7 @@ The All-In-One Pack that will take your Switch to the NeXT Step. Based on ArgonN
 
 ## REQUIREMENTS TO USE
 * An Erista NON-PATCHED Nintendo Switch Console 
-<b>(Works on Mariko Switches but you need to put SX GEAR boot.dat in the root of your SD Card. Instructions will be published soon)<b>
+<b>(NOT Working on mariko consoles. I'm working to bring compatibility to them pretty soon.)<b>
 * PC with Windows 7/8/10
 * USB-C Cable 
 * [Jig or clip to Short 0-1 Pins of Right Joycon Rail](https://user-images.githubusercontent.com/43819059/108305615-65087780-7178-11eb-954f-2e5b2c0682a3.png)
