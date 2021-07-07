@@ -78,7 +78,7 @@ The Boot Menu will activate it's respective launcher button for those payloads t
 * **CALMA Y PATICIENCIA**
 
 ## COMPATIBILIDAD
-* Firmwares desde 10.0.x a 12.0.x
+* Firmwares desde 10.0.x a 12.1.x
 
 ## CÓMO USAR
 1. Borrar cualquier conexion a internet guardada en la consola (Puede encontrarlas en Configuración de la consola -> Internet -> Configuración de internet -> Redes registradas) Luego activar modo avión.
